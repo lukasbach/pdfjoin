@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import {render} from "ink";
 import * as React from "react";
 import * as readline from "readline";
