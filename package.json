@@ -1,6 +1,6 @@
 {
   "name": "pdfjoin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Join multiple PDFs in a directory into one!",
   "main": "lib/index.js",
   "scripts": {
