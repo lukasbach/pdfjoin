@@ -23,4 +23,4 @@ invoke it from there:
     $ npm i -g pdfjoin
     $ pdfjoin
 
-![PDFJoin usage demo](./demo.gif "PDFJoin usage demo")
+![PDFJoin usage demo](https://raw.githubusercontent.com/lukasbach/pdfjoin/master/demo.gif "PDFJoin usage demo")
