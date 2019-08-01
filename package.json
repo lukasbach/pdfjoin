@@ -1,6 +1,6 @@
 {
   "name": "pdfjoin",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Join multiple PDFs in a directory into one!",
   "main": "lib/index.js",
   "scripts": {
@@ -25,5 +25,12 @@
   },
   "bin": {
     "pdfjoin": "./lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lukasbach/pdfjoin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lukasbach/pdfjoin/issues"
   }
 }
