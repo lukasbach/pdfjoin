@@ -1,6 +1,6 @@
 {
   "name": "pdfjoin",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Join multiple PDFs in a directory into one!",
   "main": "lib/index.js",
   "scripts": {
@@ -11,7 +11,12 @@
   "author": "Lukas Bach",
   "license": "ISC",
   "keywords": [
-    "cli", "util", "pdf", "join", "merge", "combine"
+    "cli",
+    "util",
+    "pdf",
+    "join",
+    "merge",
+    "combine"
   ],
   "dependencies": {
     "babel-runtime": "5.3.0",
